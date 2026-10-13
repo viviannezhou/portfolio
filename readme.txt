@@ -32,9 +32,9 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (b) CSS features
 - Custom padding and margins on each section so the content has room to breathe
-- My own color palette (cream, baby pink, mauve, and brown) used for backgrounds, buttons, links, and borders. I kept the text dark brown so it'll still easy to read.
+- My own color palette (cream, baby pink, mauve, and brown) used for backgrounds, buttons, links, and borders. I kept the text dark brown so it's still easy to read.
 - Bootstrap's grid, navbar, buttons, form styles, and responsive table
-- Two Google Fonts: Cormorant Garamond for headings and DM Sans for body text, with Georgia/serid and Helvetica/Arial/sans-serif as fallbacks
+- Two Google Fonts: Cormorant Garamond for headings and DM Sans for body text, with Georgia/serif and Helvetica/Arial/sans-serif as fallbacks
 
 
 (c) Advanced features
@@ -44,7 +44,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - A timeline on the Experience page made with CSS grid, which switches to one column on phones
 - The site is also live on GitHub Pages: https://viviannezhou.github.io/a1-portfolio/ 
 
-For responsiveness: on phoens my photo moves above the intro and gets small, the boxes and project cards stack into one column, the timeline dates move above each job, and the headings and spacing shrink so nothing feels crowded.
+For responsiveness: on phones my photo moves above the intro and gets small, the boxes and project cards stack into one column, the timeline dates move above each job, and the headings and spacing shrink so nothing feels crowded.
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
