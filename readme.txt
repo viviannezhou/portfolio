@@ -1,4 +1,4 @@
---Readme document for Vivianne Zhou, zhouvj@uci.edu--
+--Readme document for Vivianne Zhou, msvivijulia@gmail.com--
 
 A reminder on academic integrity, as described in the syllabus.
 
